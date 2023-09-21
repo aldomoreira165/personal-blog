@@ -1,0 +1,40 @@
+#profile-picture{
+    width: 370px;
+    height: 350px;
+}
+
+#banner{
+    margin: 30px;
+    background-color: #E1E0E0 ;
+}
+
+#banner-img{
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+#banner-text{
+    padding: 10px;
+    display: grid;
+    grid-template-rows: 40% 60%;
+}
+
+#name-text{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#text-name{
+    display: flex;
+    align-items: center;
+}
+
+#text-description {
+    display: flex;
+    align-items: center;
+}
+
+#text-description p{
+    font-size: 18px;
+}
